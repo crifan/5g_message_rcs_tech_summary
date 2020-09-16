@@ -9,9 +9,9 @@
         * 根据业内消息，2020年6月份国内就可以推出5G消息的正式商用
           * 国内手机的升级支持，估计需要3个月到1年的时间
       * 发布仪式
-        * ![5g_message_release_ceremony](../../../assets/img/5g_message_release_ceremony.jpg)
+        * ![5g_message_release_ceremony](../assets/img/5g_message_release_ceremony.jpg)
       * 内容简介
-        * ![5g_message_content_elite](../../../assets/img/5g_message_content_elite.png)
+        * ![5g_message_content_elite](../assets/img/5g_message_content_elite.png)
   * 应用特点
     * ![5g_message_effect_business](../assets/img/5g_message_effect_business.jpg)
   * 支持应用类型
