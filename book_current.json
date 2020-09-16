@@ -1,0 +1,19 @@
+{
+  "title": "5G消息RCS技术总结",
+  "description": "总结5G消息背后的RCS技术的概况和基础知识，包括但不限于RCS历史起源、RCS应用场景分类、RCS技术要求和实现、MaaP、RCS目标效果和特点、RCS版本历史；以及RCS产业生态、RCS应用和发展、包括国内和国外，比如Google、中国移动、菊风等公司和运营商，以及对应产品如RCS增强短信等，最后还有RCS相关背景知识，以及一些有参考价值的资料。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "5g_message_rcs_tech_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/5g_message_rcs_tech_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/5g_message_rcs_tech_summary/pdf/5g_message_rcs_tech_summary.pdf"
+    }
+  }
+}
