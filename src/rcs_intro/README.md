@@ -24,7 +24,7 @@
     * RCS增强短信
   * 是什么：一种协议规范(specification)
   * 谁制定的：GSMA
-    * `GSMA`=`GSM Association`=`Group Special Mobile Association`=`全球移动通信系统协会`
+    * `GSMA`=`GSM Association`=`Global System for Mobile Communications Association`=`全球移动通信系统协会`
       * 可理解为全球(移动网络)运营商的协会
         * 代表(移动网络)运营商利益
     * Logo
